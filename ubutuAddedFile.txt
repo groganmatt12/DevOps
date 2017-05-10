@@ -1,0 +1,5 @@
+echo "this is the test file added in Ubuntu"
+
+:w
+:x
+CNTRL + D to end this
